@@ -1,3 +1,3 @@
-class ad{
+class AD{
 
 }
